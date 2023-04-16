@@ -1,7 +1,7 @@
 # Analise de Dados
-> Trabalho 
->Pratico – Bancos de Dados
-Descrição: trabalho de banco de dados para analisar dados sobre o curso
+> Trabalho Pratico – Bancos de Dados
+> 
+>Descrição: trabalho de banco de dados para analisar dados sobre o curso
 # Collaborators
 ## Joao Victor
 Name: João Victor Graciano Belfort de Andrade
