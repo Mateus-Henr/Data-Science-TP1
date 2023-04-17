@@ -1,4 +1,4 @@
-# Analise de Dados
+# Análise de Dados
 > Trabalho Pratico – Ciência dos Dados
 > 
 >Descrição: trabalho de Introdução à Ciência dos Dados para analisar dados sobre o alunos matriculados no curso
@@ -7,13 +7,6 @@
 Name: João Victor Graciano Belfort de Andrade
 
 User_GitHub: [BelfortJoao](https://github.com/BelfortJoao)
-
-Institution: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
-
-## Mateus Henrique
-Name: Mateus Henrique Vieira Figueiredo
-
-User_GitHub: [Mateus-Henr](https://github.com/Mateus-Henr)
 
 Institution: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
 
