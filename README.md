@@ -39,7 +39,7 @@ Perguntas a serem respondidas com o trabalho:
 
 * 2 Existem diferenças significativas nas taxas de evasão entre diferentes gêneros? E de grupos raciais?
 
-* 3 Qual é a média de notas do ENEM dos alunos da universidade? Como isso se compara à média nacional?
+* 3 Qual é a média de notas do ENEM de todos os anos dos alunos da universidade? Como isso se compara à média nacional de todos os anos?
 
 * 4 Existe uma correlação entre as notas do ENEM e o desempenho acadêmico dos alunos ao longo dos cursos?
 
