@@ -54,4 +54,4 @@ Perguntas a serem respondidas com o trabalho:
 
 * 9 Existe uma correlação entre a modadalidade na qual o aluno foi inscrita e seu coeficiente acadêmico?
 
-* 10 Como os cursos se comparam em termos de taxa de evasão,pesquisar outras pesquisas, notas do ENEM e coeficiente de rendimento acadêmico?
+* 10 Como os cursos se comparam em termos de taxa de evasão, notas do ENEM e coeficiente de rendimento acadêmico?
