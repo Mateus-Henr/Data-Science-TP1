@@ -31,7 +31,7 @@ User_GitHub: [Alan]()
 
 Institution: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
 
-# Sobre
+# Entrega 1
 
 Perguntas a serem respondidas com o trabalho:
 
@@ -55,3 +55,9 @@ Perguntas a serem respondidas com o trabalho:
 * 9 Existe uma correlação entre a modadalidade na qual o aluno foi inscrita e seu coeficiente acadêmico?
 
 * 10 Como os cursos se comparam em termos de taxa de evasão, notas do ENEM e coeficiente de rendimento acadêmico?
+
+# Entrega 2
+
+* Todas as colunas foram tratadas, ver comentários em markdown no ipynb
+* Criação de 3 colunas, idade_Admissao, Idade_Saida e Tempo de Permanencia
+* Perguntas respondidas: 2,4,5,9,10
