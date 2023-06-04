@@ -25,9 +25,9 @@ User_GitHub: [Miguel_Ribeiro](https://github.com/miguelribeirokk)
 Institution: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
 
 ## Alan
-Name: Alan
+Name: Alan Gabriel
 
-User_GitHub: [Alan]()
+User_GitHub: [AlanGabriews](https://github.com/AlanGabriews)
 
 Institution: [UFV-Florestal](https://www.novoscursos.ufv.br/graduacao/caf/ccp/www/)
 
